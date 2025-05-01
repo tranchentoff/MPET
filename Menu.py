@@ -36,7 +36,7 @@ CHROME_PATH = '"C:/Program Files/Google/Chrome/Application/chrome.exe" --start-f
 ICON_FOLDER = "C:/Users/Utilisateur/Desktop/Menu pratique/icons"
 
 # Dossier de sauvegarde des captures
-screenshot_dir = r"C:\Users\Utilisateur\Desktop\Menu pratique\screenshot"
+screenshot_dir = r"C:\Users\Utilisateur\Desktop\Menu pratique\screenshots"
 
 # === FONCTIONS DE BASE ===
 
