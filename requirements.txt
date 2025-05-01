@@ -1,0 +1,5 @@
+Pillow
+pyautogui
+screeninfo
+mss
+requests
